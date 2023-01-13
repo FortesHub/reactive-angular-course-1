@@ -1,3 +1,9 @@
+node_modules: npm install
+Donné: npm run server
+start page: npm start
+
+----------------------------------------------------------------------------------------------------------------------------------
+
 
 ## The Reactive Angular Course
 
